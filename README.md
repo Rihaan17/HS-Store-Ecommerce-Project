@@ -1,6 +1,18 @@
-A Ecommerce-Strore .
+# A Ecommerce-Store .
 
-A full e-commerce project built with PHP, Bootstrap, Java Script, CSS, MySQL with Email confirmation,Paypal payement , Ion Auth , Live Chatroom and full admin dashboard.
+### A full e-commerce project built with various technologies like
+ - PHP 
+ - Bootstrap
+ - Java Script
+ - CSS
+ - MySQL 
+ 
+### Features 
+- Email confirmation 
+- Paypal payment 
+- Ion Auth 
+- Live Chatroom 
+- Full admin dashboard.
 
 
 Copyright (c) Hridoy Saha, 2019
